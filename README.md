@@ -16,12 +16,13 @@
  </a>
 </div>
 
-<table border="0" width="100%">
+<br>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="55%" valign="top">
-
-<h3 align="left">👨‍💻 System Logs</h3>
-<pre>
+      <h3 align="left">👨‍💻 System Logs</h3>
+      <pre>
 >_ INITIATING SESSION...
 >_ USER: Harrison King (Senior Dev)
 >_ LOC: Nigeria 🇳🇬
@@ -33,21 +34,18 @@
 >_ WARNING: Developer is "Crazy" 😂
 >_ STATUS: READY TO CODE
 </pre>
-
-<br>
-<a href="https://portfolio-three-phi-ie06cs53vg.vercel.app/">
-  <img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
+      <br>
+      <a href="https://portfolio-three-phi-ie06cs53vg.vercel.app/">
+        <img src="https://img.shields.io/badge/ACCESS_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
     </td>
     <td width="45%" valign="top" align="center">
-
-<h3 align="center">⚙️ Tech Core</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,supa&perline=3&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,py,git,figma,blender&perline=3&theme=dark" />
-</div>
+      <h3 align="center">⚙️ Tech Core</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,supa&perline=3&theme=dark" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,py,git,figma,blender&perline=3&theme=dark" />
+      </div>
     </td>
   </tr>
 </table>
@@ -72,5 +70,8 @@
 <div align="center">
   <a href="mailto:kingharrisonariwodo@gmail.com">
     <img src="https://img.shields.io/badge/ENCRYPTED_SIGNAL-gmail?style=for-the-badge&logo=gmail&logoColor=white&color=black" />
+  </a>
+  <a href="https://dev.to/kingharry001">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 </div>
