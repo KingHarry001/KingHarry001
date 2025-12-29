@@ -5,7 +5,7 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
-# 🛑 THIS SECTION FIXES THE PERMISSION ERROR
+# Fixes permission errors
 permissions:
   contents: write
 
@@ -15,9 +15,12 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
+          fetch-depth: 0
+      
+      # 👇 THIS WAS THE BUG. I changed 'with' to 'env' below.
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           
@@ -26,6 +29,11 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          # The part below prevents the crash if there are no changes
-          git commit -m "generated" || echo "No changes to commit"
-          git push
+          # Check for changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "generated"
+            git pull --rebase
+            git push
+          fi
