@@ -12,13 +12,13 @@
   </a>
 </p>
 
----
+<br>
 
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-### ⚡ The Terminal
-```javascript
+      <h3 align="left">⚡ The Terminal</h3>
+      <pre>
 const harrison = {
     role: "Senior Full Stack Dev",
     location: "Nigeria 🇳🇬",
@@ -33,4 +33,53 @@ const harrison = {
 };
 
 // Loading next big idea...
-// ████████████▒▒▒ 85%
+// ████████████▒▒▒ 85%</pre>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <h3 align="center">🛠️ The Arsenal</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart&perline=4" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=supabase,nodejs,postgres,firebase&perline=4" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=git,figma,blender,ps&perline=4" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">🐍 Contribution Graph</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kingharry001/kingharry001/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kingharry001/kingharry001/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/kingharry001/kingharry001/raw/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kingharry001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kingharry001&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+</div>
+
+<hr>
+
+<h3 align="center">🌐 Connect</h3>
+<div align="center">
+  <a href="mailto:kingharrisonariwodo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-three-phi-ie06cs53vg.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://dev.to/kingharry001">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/kingharrison">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</div>
