@@ -34,5 +34,3 @@ const harrison = {
 
 // Loading next big idea...
 // ████████████▒▒▒ 85%
-</td>
-<td width="40%" valign="top" align="center">
