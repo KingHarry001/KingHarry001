@@ -17,15 +17,6 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-    The Arsenal
-🐍 Contribution Graph
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://github.com/kingharry001/kingharry001/raw/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://github.com/kingharry001/kingharry001/raw/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://github.com/kingharry001/kingharry001/raw/output/github-contribution-grid-snake.svg"> </picture> </div>
-
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkingharry001%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" height="180" alt="stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dkingharry001%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" height="180" alt="languages" /> </div>
-
-🌐 Connect
-<div align="center"> <a href="mailto:kingharrisonariwodo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://portfolio-three-phi-ie06cs53vg.vercel.app/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" /> </a> <a href="https://dev.to/kingharry001"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/dev.to-0A0A0A%3Fstyle%3Dfor-the-badge%26logo%3Ddev.to%26logoColor%3Dwhite" /> </a> <a href="https://ko-fi.com/kingharrison"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Ko--fi-F16061%3Fstyle%3Dfor-the-badge%26logo%3Dko-fi%26logoColor%3Dwhite" /> </a> </div>
-
 ### ⚡ The Terminal
 ```javascript
 const harrison = {
@@ -43,3 +34,5 @@ const harrison = {
 
 // Loading next big idea...
 // ████████████▒▒▒ 85%
+</td>
+<td width="40%" valign="top" align="center">
