@@ -18,7 +18,7 @@
 
 <br>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<table border="0" width="100% !important" cellspacing="0" cellpadding="0">
   <tr>
     <td width="55%" valign="top">
       <h3 align="left">👨‍💻 System Logs</h3>
